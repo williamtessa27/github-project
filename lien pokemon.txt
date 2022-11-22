@@ -1,0 +1,21 @@
+https://ng-pokemon-app-66241.web.app
+4W5FYB2DQ7paL92
+
+github: 
+name: williamtessa27
+password: williamTessa27
+
+procedure git:
+-git init
+-git add .
+-git commit -m "message"
+-copier le 'remote add' sur ton site sur git
+-ton nom d'utilisateur et ton token
+-git push
+-copier le message du git push 
+
+
+git remote set-url origin https://williamTessa27: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@github.com/williamTessa27/itune-apps.git
+
+
+https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
