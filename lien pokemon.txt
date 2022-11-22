@@ -9,13 +9,13 @@ procedure git:
 -git init
 -git add .
 -git commit -m "message"
--copier le 'remote add' sur ton site sur git
+-git remote add origin https://github.com/williamtessa27/REPO.git
 -ton nom d'utilisateur et ton token
 -git push
 -copier le message du git push 
 
 
-git remote set-url origin https://williamTessa27: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@github.com/williamTessa27/itune-apps.git
+git remote set-url origin https://williamtessa27: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@github.com/williamtessa27/github-project.git
 
 
 https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
