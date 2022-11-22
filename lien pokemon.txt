@@ -15,7 +15,7 @@ procedure git:
 -copier le message du git push 
 
 
-git remote set-url origin https://williamtessa27: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@github.com/williamtessa27/github-project.git
+git remote set-url origin https://williamtessa27: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@github.com/williamtessa27/github-project.git
 
 
 https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
